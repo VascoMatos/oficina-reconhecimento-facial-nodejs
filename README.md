@@ -1,1 +1,7 @@
 # oficina-reconhecimento-facial-nodejs
+
+password : Vasco2008#Princesa
+
+API URL : https://fctphqpzfnnfvjxvvomw.supabase.co
+
+anon public key : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZjdHBocXB6Zm5uZnZqeHZ2b213Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY0MTcxMjYsImV4cCI6MjA5MTk5MzEyNn0.cdMajLtQ_1DPEkUlgDC2iWHm1MAzq7Jkh4PZ_htBknlSo
